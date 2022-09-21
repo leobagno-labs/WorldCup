@@ -1,12 +1,10 @@
-## ![](qatar4.jpg)
 ![](games.jpg)
 ## ![](qatar4.jpg) **World Cup 2022** &copy;FIFATM
 
 <h3 align="center">Good Morning, Good Afternoon, Good Night. My name is Leonardo Bagno.</h3>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src=
+<img align="right" alt="Coding" width="400" src=https://github.com/leobagno-labs/WorldCup/blob/main/LeoBagno.gif
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/PAIUR1JyoNVxu68cWA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PAIUR1JyoNVxu68cWA">via GIPHY</a></p>
 We are in a countdown before another men´s World Cup. This years edition will be hosted in the Middle East between November and December. All right!, but when exactly?</br></br>
 
 - First Match: Monday, Nov. 21, 2022
