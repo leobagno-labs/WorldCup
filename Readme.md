@@ -1,7 +1,7 @@
 ![](games.jpg)
 ## ![](qatar4.jpg) **World Cup 2022** &copy;FIFATM
 <h3 align="center">Good Morning, Good Afternoon, Good Night. My name is Leonardo Bagno.</h3>
-<h5 align="center">A passionate frontend developer from Brazil.I am currently learning C#, Javascript, Java, SQL Server, Php, Android.</h5>
+<h5 align="center">A passionate frontend developer from Brazil.I am currently learning C#, Javascript, Java, SQL Server, PHP, Android.</h5>
 -🎯 How to reach me **bagnoleonardo@gmail.com**
 <img align="right" alt="Bagno" width="400" src=https://github.com/leobagno-labs/WorldCup/blob/main/LeoBagno.gif
 
