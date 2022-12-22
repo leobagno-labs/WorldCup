@@ -5,6 +5,9 @@
 -🎯 How to reach me **bagnoleonardo@gmail.com**
 <img align="right" alt="Bagno" width="400" src=https://github.com/leobagno-labs/WorldCup/blob/main/LeoBagno.gif
 
+
+![LeoEffects2](https://user-images.githubusercontent.com/108946666/209237989-5d397ff6-0ab7-4aba-a853-1b6ffaa15d8d.gif)
+
 My bot and I are in a countdown before another men´s World Cup. This years edition will be hosted in the Middle East between November and December. All right!, but when exactly?</br></br>
 
 - First Match: Monday, Nov. 21, 2022
